@@ -16,11 +16,11 @@ It took me 5-6 hours to complete this project.
 **Note :** This project is not optimized for mobile yet.
 
 
-**[Live Project's netlify link](https://crypto-landing-page-project-05.netlify.app/ "Project link")**
+**[Live Project's netlify link](https://plant-homepage-project-06.netlify.app/ "Project link")**
 
 
 
-[![Project ScreenShot](./css%20project_06%20done.png)](https://crypto-landing-page-project-05.netlify.app/ "Project link")
+[![Project ScreenShot](./css%20project_06%20done.png)](https://plant-homepage-project-06.netlify.app/ "Project link")
 
 
-[![Badge](https://img.shields.io/badge/Project__06-Plant%20HomePage-yellow)](https://crypto-landing-page-project-05.netlify.app/ "Project link")
+[![Badge](https://img.shields.io/badge/Project__06-Plant%20HomePage-yellow)](https://plant-homepage-project-06.netlify.app/ "Project link")
